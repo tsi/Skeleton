@@ -1,0 +1,15 @@
+; $Id: 
+
+name = Skeleton
+description = SITENAME theme
+screenshot = styles/images/linnovate.gif
+core = 6.x
+engine = phptemplate
+base theme = garland
+
+; Theme specific styles.
+stylesheets[screen][] = styles/style.css
+
+; Theme Script Files.
+scripts[] = scripts/script.js
+
